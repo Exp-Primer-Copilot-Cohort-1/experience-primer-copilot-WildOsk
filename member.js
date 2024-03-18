@@ -1,3 +1,3 @@
-function skillMember() {
-    console.log('member skill');
+function skillsMember() {
+    return 'Node.js';
 }
